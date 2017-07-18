@@ -8,6 +8,8 @@ html {
 }
 .swiper-container {
 	overflow: hidden;
+	 background: url('../bg.jpg') no-repeat;
+    background-size: cover;
 }
 html,body, .main, .swiper-wrapper, .swiper-slide {
     width:100%;
