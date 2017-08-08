@@ -25,6 +25,7 @@ html,body, .main, .swiper-wrapper .swiper-slide {
  img{
     position: absolute;
      opacity: 0;
+     width:100%;
 }
 
 .arrow {
