@@ -11,12 +11,13 @@ html,body, .main, .swiper-wrapper, .swiper-slide {
     height:100%;
     overflow: hidden;
 }
-.swiper-slide {
-    border:none;
+.main {
+	border:none;
     background: url('../bg.jpg') no-repeat;
     background-size: cover;
-    position: relative;
-
+}
+.swiper-slide {
+       position: relative;
 }
 
  img{
