@@ -4,7 +4,8 @@
 new Swiper ('.swiper-container', {
     direction: 'vertical',
     loop: true,
-    initialSlide:2,
+    slidesPerView:1,
+    initialSlide:1,
     // 如果需要分页器
     pagination: '.swiper-pagination',
     /*当切换结束后，给当前展示的区域添加对应的ID，由此实现对应的动画效果*/
